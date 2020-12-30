@@ -2,8 +2,8 @@
 I am Saad Shaikh - A Front-end Developer | blogger 👨‍💻
 
 ### You can connect me through -
-[![Instagram](https://1.bp.blogspot.com/-a5lUx00-v3g/X-xdd061lhI/AAAAAAAAAIo/-AgXH-T8SJQYhDMuuPtonpcJzswuQnJkgCLcBGAsYHQ/s0/instagram1.JPG)](https://www.instagram.com/_.mr.believer.__/)       
-[![LinkedIn](https://1.bp.blogspot.com/-11-l1ZoKL9g/X-xYdIjtF3I/AAAAAAAAAIQ/E2OInDjr5B0eGioIfBreF6YSaAs-eY_jwCLcBGAsYHQ/s0/linkedin.png)](https://www.linkedin.com/in/saad-shaikh-278452193/)
+[![Instagram](https://1.bp.blogspot.com/-a5lUx00-v3g/X-xdd061lhI/AAAAAAAAAIo/-AgXH-T8SJQYhDMuuPtonpcJzswuQnJkgCLcBGAsYHQ/s0/instagram1.JPG)](https://www.instagram.com/_.mr.believer.__/)
+[![LinkedIn](https://1.bp.blogspot.com/-lR5gP3_RixE/X-xetMEXAXI/AAAAAAAAAIw/zkFHM9Be4E00KAEWqA1PkuS-7UATtAOqACLcBGAsYHQ/s0/linkedIn1.JPG)](https://www.linkedin.com/in/saad-shaikh-278452193/)
 
 - 🔭 I’m currently working on my Skills
 - 🌱 I’m currently learning JavaScript
