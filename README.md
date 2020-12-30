@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Saad Shaikh - A Front-end Developer 👨🏻‍💻
+I am Saad Shaikh - A Front-end Developer 👨‍💻
 
 - 🔭 I’m currently working on my Skills
 - 🌱 I’m currently learning JavaScript
