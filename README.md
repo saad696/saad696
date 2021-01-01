@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saad Shaikh</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img src = https://github.com/saad696/saad696/blob/main/head.gif width = 700 height = 360 margin = auto>
+<img align="center" src = https://github.com/saad696/saad696/blob/main/head.gif width = 700 height = 360>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad696&label=Profile%20views&color=0e75b6&style=flat" alt="saad696" /> </p>
 
