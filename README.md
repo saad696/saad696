@@ -19,6 +19,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript - Arrays](https://codingwithsaad.blogspot.com/2020/12/javascript-arrays.html)
+- [javascript's - this keyword, getters & setters, Dom box dimension properties](https://codingwithsaad.blogspot.com/2020/12/100-days-of-code-day-3-this-keyword.html)
+- [javaScript's - inheritance, super keyword, new keyword](https://codingwithsaad.blogspot.com/2020/12/100-days-of-code-day-2-javascripts.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
