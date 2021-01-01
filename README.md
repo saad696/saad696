@@ -17,11 +17,16 @@
 
 - ⚡ Fun fact **As an indian guy I dont like tea**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saad shaikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saad shaikh" height="30" width="40" /></a>
 <a href="https://fb.com/sk saad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sk saad" height="30" width="40" /></a>
 <a href="https://instagram.com/saadshaikh.09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saadshaikh.09" height="30" width="40" /></a>
+<a href="/https://codingwithsaad.blogspot.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://codingwithsaad.blogspot.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
