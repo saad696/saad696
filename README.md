@@ -11,4 +11,4 @@
 - ⚡ Fun fact: I hate tea as an indian. 🤷
 
 <h3>Connect me on:</h3><hr>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&labelColor=blue)](https://www.linkedin.com/in/saad-shaikh-278452193/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&labelColor=blue&style=for-the-badge&url=https://www.linkedin.com/in/saad-shaikh-278452193/)](https://www.linkedin.com/in/saad-shaikh-278452193/)
