@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saad Shaikh</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
-
+<h3 align="center">A passionate frontend developer from India.</h3><hr.
+<img src = https://media1.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif?cid=ecf05e47vusv1bitmu9s0971i291gl4wu7zazr1bekk88nh1&rid=giphy.gif width = 1080 height = 360>
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad696&label=Profile%20views&color=0e75b6&style=flat" alt="saad696" /> </p>
 
 - 🔭 I’m currently working on [A landing page](https://saad696.github.io/coffeeWebsiteLandingPage/)
