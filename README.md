@@ -10,5 +10,4 @@
 - 😄 Pronouns: He, He's
 - ⚡ Fun fact: I hate tea as an indian. 🤷
 
-### Spotify Playing 🎧
-[<img src="https://open.spotify.com/playlist/6iowucKXmcE3vVPqKS537K" alt="Saad's Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Instagram Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.instagram.com%2F_.mr.believer.__%2F](https:https://www.instagram.com/_.mr.believer.__/)
