@@ -10,4 +10,9 @@
 - 😄 Pronouns: He, He's
 - ⚡ Fun fact: I hate tea as an indian. 🤷
 
-[![Instagram Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.instagram.com%2F_.mr.believer.__%2F](https:https://www.instagram.com/_.mr.believer.__/)
+<h1>Connect me on:</h1><hr>
+<p style="align-items: center;">
+    <a href=”https://www.linkedin.com/in/saad-shaikh-278452193/”>
+    <img src=”https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&labelColor=blue">
+    </a>
+    </p>
