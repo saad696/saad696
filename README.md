@@ -27,9 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saad shaikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saad shaikh" height="30" width="40" /></a>
-<a href="https://fb.com/sk saad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sk saad" height="30" width="40" /></a>
-<a href="https://instagram.com/saadshaikh.09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saadshaikh.09" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/mwlite/in/saad-shaikh-278452193" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saad shaikh" height="30" width="40" /></a>
+<a href="https://m.facebook.com/profile.php?ref=bookmarks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sk saad" height="30" width="40" /></a>
+<a href="https://www.instagram.com/saadshaikh.09/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saadshaikh.09" height="30" width="40" /></a>
 <a href="/https://codingwithsaad.blogspot.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://codingwithsaad.blogspot.com/" height="30" width="40" /></a>
 </p>
 
