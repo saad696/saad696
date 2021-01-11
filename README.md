@@ -5,7 +5,7 @@
 ### Hey Yo!
 - 🔭 I’m currently working on [A landing page](https://saad696.github.io/coffeeWebsiteLandingPage/)
 
-- 🌱 I’m currently learning **JavaScript's frameworks**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://saadshaikhportfolio.blogspot.com/](https://saadshaikhportfolio.blogspot.com/)
 
