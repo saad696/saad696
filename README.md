@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align='right' src = https://github.com/saad696/saad696/blob/main/man.gif width = 500>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saad696&label=Profile%20views&color=0e75b6&style=flat" alt="saad696" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=saad696&label=Profile%20views&color=0e75b6&style=flat" alt="saad696" /> </p>
 
 - 🔭 I’m currently working on [A landing page](https://saad696.github.io/coffeeWebsiteLandingPage/)
 
