@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saad Shaikh</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img align='right' src = https://github.com/saad696/saad696/blob/main/man.gif width = 400>
+<img align='right' src = https://github.com/saad696/saad696/blob/main/man.gif width = 450>
 
 ### Hey Yo!
 - 🔭 I’m currently working on [A landing page](https://saad696.github.io/coffeeWebsiteLandingPage/)
