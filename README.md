@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align='right' src = https://github.com/saad696/saad696/blob/main/man.gif width = 500>
 
-### Hey there!
+### Lil Bit About Me
 - 🔭 I’m currently working on [A landing page](https://saad696.github.io/coffeeWebsiteLandingPage/)
 
 - 🌱 I’m currently learning **JavaScript's frameworks**
@@ -18,6 +18,7 @@
 - ⚡ Fun fact **As an indian guy I dont like tea**
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=saad696&label=Profile%20views&color=0e75b6&style=flat" alt="saad696" /> </p>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript - Arrays](https://codingwithsaad.blogspot.com/2020/12/javascript-arrays.html)
