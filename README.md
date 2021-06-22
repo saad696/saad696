@@ -6,10 +6,6 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://saadshaikhportfolio.blogspot.com/](https://saadshaikhportfolio.blogspot.com/)
-
-- 📝 I regularly write articles on [https://codingwithsaad.blogspot.com/](https://codingwithsaad.blogspot.com/)
-
 - 💬 Ask me about **Any tech related query**
 
 - 📫 How to reach me **shksaad@911@gmail.com**
