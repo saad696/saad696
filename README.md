@@ -3,9 +3,8 @@
 <img align='right' src = https://github.com/saad696/saad696/blob/main/man.gif width = 450>
 
 ### Hey Yo!
-- 🔭 I’m currently working on [A landing page](https://saad696.github.io/coffeeWebsiteLandingPage/)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://saadshaikhportfolio.blogspot.com/](https://saadshaikhportfolio.blogspot.com/)
 
