@@ -3,7 +3,7 @@
 <img align='right' src = https://github.com/saad696/saad696/blob/main/man.gif width = 450>
 
 ### Hey Yo!
-- cureently working on the whole front end of - <a href='http://laksn.info/demo/khooobsooorat/index.php'>Khooobsoorat</a> { A beauty products reviewing website }
+- currently working on React js.
 
 - 🌱 I’m currently learning **Next JS**
 
