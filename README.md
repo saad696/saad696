@@ -3,9 +3,9 @@
 <img align='right' src = https://github.com/saad696/saad696/blob/main/man.gif width = 450>
 
 ### Hey Yo!
-- currently working on React js.
+- currently working as Associate SDE.
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **Any tech related query**
 
