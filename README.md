@@ -5,7 +5,7 @@
 ### Hey Yo!
 - currently working as Associate SDE.
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MEAN stack**
 
 - 💬 Ask me about **Any tech related query**
 
