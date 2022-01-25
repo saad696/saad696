@@ -66,8 +66,7 @@
 <img src="https://www.netlify.com/v3/img/components/full-logo-dark.png" width="100" style='padding-bottom: .7rem' />
 </div>
 </p> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saad696&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <hr />
-[![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saad696)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saad696)](https://github.com/anuraghazra/github-readme-stats)
