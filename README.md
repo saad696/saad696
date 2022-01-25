@@ -30,6 +30,7 @@
 <a href="/https://codingwithsaad.blogspot.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://codingwithsaad.blogspot.com/" height="30" width="40" /></a>
 </p><hr>
 
+<div>
 <p align="left"> 
 <h3>Frontend Technologies:</h3>
 <div style='display: flex'>
@@ -65,9 +66,9 @@
 <img src="https://www.netlify.com/v3/img/components/full-logo-dark.png" width="100" style='padding-bottom: .7rem' />
 </div>
 </p> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saad696&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <hr />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saad696&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ###
 [![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saad696)](https://github.com/anuraghazra/github-readme-stats)
