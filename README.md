@@ -68,5 +68,5 @@
 
 <hr />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saad696&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saad696&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 [![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saad696)](https://github.com/anuraghazra/github-readme-stats)
