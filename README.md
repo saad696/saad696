@@ -3,9 +3,9 @@
 <img align='right' src = https://github.com/saad696/saad696/blob/main/man.gif width = 450>
 
 ### Hey Yo!
-- currently working as Associate SDE.
+- currently working as SDE.
 
-- 🌱 I’m currently learning **MEAN stack**
+- 🌱 I’m currently learning **FullStack**
 
 - 💬 Ask me about **Any tech related query**
 
