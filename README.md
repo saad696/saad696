@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Any tech related query**
 
-- 📫 How to reach me **shksaad911@gmail.com**
+- 📫 How to reach me **sde.saadshaikh@gmail.com**
 
 - ⚡ Fun fact **As an indian guy I dont like tea**
 
